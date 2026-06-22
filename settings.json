@@ -9,7 +9,7 @@
     "ip": "Stevey123132.aternos.me",
     "port": 20035,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 200,
-    "max-reconnect-delay": 10000
+    "max-reconnect-delay": 400
   },
   "movement": {
     "enabled": true,
