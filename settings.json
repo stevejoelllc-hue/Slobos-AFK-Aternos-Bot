@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Stevey123132.aternos.me",
+    "ip": "gazelle.aternos.host:20035",
     "port": 20035,
     "version": "1.21.11",
     "try-creative": false
