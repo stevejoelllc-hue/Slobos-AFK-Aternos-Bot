@@ -8,7 +8,7 @@
   "server": {
     "ip": "Stevey123132.aternos.me",
     "port": 20035,
-    "version": "1.21.2",
+    "version": false,
     "try-creative": false
   },
   "position": {
@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 300,
       "messages": [
-        "im a chud ima a chud im a fat little chud who ass it tighter then the sun",
-        "cuh",
-        "ima a bot hello everyone how are yall boys doing"
+        "Still here",
+        "AFK but active",
+        "Just hanging out"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 5000,
-    "max-reconnect-delay": 30000
+    "auto-reconnect-delay": 8000,
+    "max-reconnect-delay": 60000
   },
   "movement": {
     "enabled": true,
@@ -50,15 +50,15 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 8000
+      "interval": 10000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 15000
+      "interval": 20000
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": false,
     "beds": false,
     "chat": true,
